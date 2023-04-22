@@ -52,6 +52,7 @@ header {
 }
 
 #logo > a > img {
+  height: 10px;
   width: 70%;
 }
 
